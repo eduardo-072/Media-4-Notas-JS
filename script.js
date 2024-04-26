@@ -3,10 +3,10 @@ let N2;
 let N3;
 let N4;
 
-parseFloat(prompt("Digite um numero " + N1));
-parseFloat(prompt("Digite um numero " + N2));
-parseFloat(prompt("Digite um numero " + N3));
-parseFloat(prompt("Digite um numero " + N4));
+alert = parseFloat(prompt("Digite um numero " + N1));
+alert = parseFloat(prompt("Digite um numero " + N2));
+alert = parseFloat(prompt("Digite um numero " + N3));
+alert = parseFloat(prompt("Digite um numero " + N4));
 
 let media = (N1 + N2 + N3 + N4) / 4;
 
