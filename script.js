@@ -3,7 +3,6 @@ let N2;
 let N3;
 let N4;
 
-
 parseFloat(prompt("Digite um numero " + N1));
 parseFloat(prompt("Digite um numero " + N2));
 parseFloat(prompt("Digite um numero " + N3));
